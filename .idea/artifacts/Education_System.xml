@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="Education System">
+    <output-path>$PROJECT_DIR$/out/artifacts/Education_System</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="fx.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="EducationSystem" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="FX.jar">
+        <element id="module-output" name="FX" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/Education_System/gson-2.8.6.jar" />
+    </root>
+  </artifact>
+</component>

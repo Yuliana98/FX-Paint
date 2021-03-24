@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pic>
+    <name>test.xml</name>
+    <width>0</width>
+    <height>0</height>
+    <shapeList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="line">
+        <strokeColor>0x000000FF</strokeColor>
+        <w>3</w>
+        <dot1>
+            <w>0</w>
+            <x>247.0</x>
+            <y>65.0</y>
+        </dot1>
+        <dot2>
+            <w>0</w>
+            <x>359.0</x>
+            <y>264.0</y>
+        </dot2>
+    </shapeList>
+    <shapeList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="line">
+        <strokeColor>0x000000FF</strokeColor>
+        <w>3</w>
+        <dot1>
+            <w>0</w>
+            <x>546.0</x>
+            <y>360.0</y>
+        </dot1>
+        <dot2>
+            <w>0</w>
+            <x>478.0</x>
+            <y>218.0</y>
+        </dot2>
+    </shapeList>
+</pic>
